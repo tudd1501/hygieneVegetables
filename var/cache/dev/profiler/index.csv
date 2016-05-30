@@ -1,0 +1,3 @@
+654641,127.0.0.1,GET,http://localhost:8000/,1464547517,,200
+aaf7e0,127.0.0.1,GET,http://localhost:8000/images/blue-arrow.png,1464547802,22d5dc,200
+22d5dc,127.0.0.1,GET,http://localhost:8000/images/blue-arrow.png,1464547802,,404
